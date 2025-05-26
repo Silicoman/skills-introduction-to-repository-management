@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @Silicoman
+/src/backend/database.py      @Silicoman
+/src/backend/routers/auth.py  @Silicoman
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @Silicoman
